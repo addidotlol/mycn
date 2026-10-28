@@ -8,6 +8,8 @@ shadcn/ui-style components for [MyGo](https://mygo.egoist.dev) Native UI.
 go get github.com/addidotlol/mycn
 ```
 
+Needs Go 1.27.1 or newer.
+
 ## Usage
 
 Call `mycn.Use` (or `mycn.UsePreset`) at the top of your view, every frame, and then use the components the way you'd use `ui`:
